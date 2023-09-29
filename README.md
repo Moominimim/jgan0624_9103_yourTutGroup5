@@ -1,4 +1,4 @@
-# yourUnikey_9103_yourTutGroup5
+# Quiz 8
 ## PART 1
 As our group's tentative choice of project was 'Wheels of fortune', I chose magic arrays as my inspiration for the imaging technique.
 
