@@ -19,7 +19,7 @@ I selected the Haukun's code of magic circle to complement my imaging inspiratio
 1. [100Day_MagicCircle](https://github.com/haukun/100Day_MagicCircle/blob/c012401b611704096aea3cf39ef14a35e1f114f5/sketch.js)
 2. [magic circle picture](readmeImages/magiccircle.jpeg)
 
-As for the Flutter Sort Visualizer, it provides dynamic and colorful graphics with regularity and rhythm, aligning with the theme of magic arrays in our project. This technique utilizes the Flutter framework to showcase various sorting algorithms, adding an element of interactivity and fun.
+As for the Flutter Sort Visualizer, it provides dynamic and colorful particle graphics with regularity and rhythm, aligning with the theme of magic arrays in our project. This technique utilizes the Flutter framework to showcase various sorting algorithms, adding an element of interactivity and fun.
 
 1. [Flutter implementation](https://github.com/hamed-deriv/flutter_sort_visualizer)
 2. [bubble sort picture](readmeImages/bubblesort.jpeg)
