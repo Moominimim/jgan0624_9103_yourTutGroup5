@@ -19,7 +19,7 @@ I selected the Haukun's code of magic circle to complement my imaging inspiratio
 1. [100Day_MagicCircle](https://github.com/haukun/100Day_MagicCircle/blob/c012401b611704096aea3cf39ef14a35e1f114f5/sketch.js)
 2. [magic circle picture](readmeImages/magiccircle.jpeg)
 
-As for the Flutter Sort Visualizer, it provides dynamic and colorful particle graphics with regularity and rhythm, aligning with the theme of magic arrays in our project. This technique utilizes the Flutter framework to showcase various sorting algorithms, adding an element of interactivity and fun.
+I chose the rotating particle effect as one of my programming techniques because it creates some dynamic and colourful graphics that have a magical and mysterious feel to them, like a magic array. This technique uses an array of objects to store the position, speed, colour and lifetime of each particle and a loop to update and draw them on the canvas. This technique also uses some parameters to control the rotation speed and direction of the particles and allows the user to change them by clicking the mouse. I think this technique is fun and creative to make my project more vivid and engaging.
 
-1. [Flutter implementation](https://github.com/hamed-deriv/flutter_sort_visualizer)
-2. [bubble sort picture](readmeImages/bubblesort.jpeg)
+1. [particle rotation:the first code](https://blog.csdn.net/qq_43796795/article/details/111699062?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-3-111699062-blog-110275083.235%5Ev38%5Epc_relevant_anti_vip&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-3-111699062-blog-110275083.235%5Ev38%5Epc_relevant_anti_vip)
+2. [particle rotation](readmeImages/particlerotation.jpeg)
